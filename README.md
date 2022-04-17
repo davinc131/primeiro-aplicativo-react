@@ -1,2 +1,3 @@
 # primeiro-aplicativo-react
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://biglvt.csb.app/)
